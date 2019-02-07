@@ -1,0 +1,28 @@
+*{
+    font-size: 40px;  
+}
+
+*:focus{
+    outline: none;
+}
+
+.first-input{
+    position: absolute;
+    width: 95%;
+    height: 50%;
+    left: 2%;
+    border: none;
+    background: #66ff33;
+    padding: 0 0.5%;
+}
+
+.second-input{
+    position: absolute;
+    width: 95%;
+    height: 50%;
+    left: 2%;
+    top:50%;
+    border: none;
+    background: #66ff33;
+    padding: 0 0.5%;
+}

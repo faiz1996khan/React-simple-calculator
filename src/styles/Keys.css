@@ -1,0 +1,43 @@
+.first{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    text-align: center;
+    color: white;
+    padding: 1% 0 0 0;
+}
+.second{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    top: 0px;
+    left: 20%;
+    text-align: center;
+    color: white;
+    padding: 1% 0 0 0;
+}
+.third{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    top: 0px;
+    left: 40%;
+    text-align: center;
+    color: white;
+    padding: 1% 0 0 0;
+
+}
+.four{
+    position: absolute;
+    width: 40%;
+    height: 20%;
+    top: 0px;
+    left: 60%;
+    text-align: center;
+    color: white;
+    padding: 1% 0 0 0;
+}
+
+.hvr:hover{
+    border: 0.2px solid white;
+}
